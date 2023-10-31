@@ -10,7 +10,8 @@ public class Ejercicio03 {
         //FORMLA A CONTINUACION 
         double resultado = Math.pow(varl1, varl2) + Math.sqrt(varl3) + (double)varl4/(varl5 + varl6);
         System.out.println("El resultado es: " + resultado);
-        //CORREGIDO Y REALIZADO POR ALEJANDRO JIRON.
+        //CORREGIDO Y REALIZADO POR ALEJANDRO JIRON..
+        
         
     }
     
