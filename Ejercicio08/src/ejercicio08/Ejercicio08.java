@@ -16,7 +16,8 @@ public class Ejercicio08 {
         boolean resultado2 = var8 >= var11;
         boolean resultadoFinal = resultado1 || resultado2;
         System.out.println("La operacion da como resultado: " + resultadoFinal);
-        //EJERCICIO 08 REALIZADO Y RESUELTO.
+        //EJERCICIO 08 REALIZADO Y RESUELTO..
+        
     }
     
 }
