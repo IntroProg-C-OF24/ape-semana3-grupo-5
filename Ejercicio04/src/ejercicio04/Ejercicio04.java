@@ -8,7 +8,7 @@ public class Ejercicio04 {
         double resultado1 = (var1/(var2 + var3))+ var4;
         boolean resultadofinal = resultado1 >= var3;
         System.out.println(resultadofinal);
-        // Ejercicio realizado y resuelto 
+        // Ejercicio realizado y resuelto .
     }
     
 }
